@@ -104,6 +104,7 @@ main{
 .grid-item-desktop:hover{
    background-color: rgb(255, 245, 177);
    border: 2px solid rgb(105, 2, 140);
+   transform: scale(1.1);
     
 }
 
