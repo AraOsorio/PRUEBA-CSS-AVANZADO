@@ -8,6 +8,8 @@ El objetivo principal fue construir una página web aplicando **layout modernos 
 
 La temática elegida para el desarrollo fue una **galería de arte**, donde se exhiben distintas obras mediante una grilla de imágenes en la sección principal.
 
+Link: https://araosorio.github.io/PRUEBA-CSS-AVANZADO/realistas.html
+
 ---
 
 ## 🧩 Estructura del proyecto
